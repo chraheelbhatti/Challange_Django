@@ -4,6 +4,9 @@ This project implements a user authentication system using Django and React. It 
 logout, and fetching user data. Authentication is handled using JWT (JSON Web Tokens) and HTTP-only cookies for improved
 security. The application's frontend is styled using Bootstrap.
 
+![Challange-1](./Challange-1.jpg)
+![Challange-2](./Challange-2.jpg)
+
 The project consists of two directories:
 
 - `client`: Contains the React application
